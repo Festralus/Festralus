@@ -2,7 +2,7 @@
 My name is **Andrei**, I'm a Frontend Developer passionate about creating responsive, clean, and user-friendly web interfaces.  
 I enjoy building things that look good and work fast - from adaptive layouts to full-featured web applications.  
 
-### Tech Stack 
+### </> Tech Stack 
 #### Frontend 
 ![Static Badge](https://img.shields.io/badge/HTML-black?logo=html5)
 ![Static Badge](https://img.shields.io/badge/CSS-black?logo=css)
