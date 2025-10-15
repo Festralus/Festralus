@@ -31,7 +31,7 @@ I enjoy building things that look good and work fast - from adaptive layouts to 
 
 <div align="center">
 <!-- GitHub Streak -->
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Festralus&theme=vue-dark&border_radius=5" alt="GitHub Streak" /></a>
-<br>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-zeta-ecru.vercel.app?user=Festralus%20&theme=vue-dark&border_radius=5" alt="GitHub Streak" /></a>
+  <br>
 
 </div>
