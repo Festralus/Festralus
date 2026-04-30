@@ -13,7 +13,7 @@ I enjoy building things that look good and work fast - from adaptive layouts to 
 ![Static Badge](https://img.shields.io/badge/Nuxt.js-black?logo=Nuxt)
 ![Static Badge](https://img.shields.io/badge/Pinia-black?logo=pinia)
 
-#### Backend (basic)
+#### Backend
 ![Static Badge](https://img.shields.io/badge/Node.js-black?logo=Node.js)
 ![Static Badge](https://img.shields.io/badge/Express.js-black?logo=express)
 ![Static Badge](https://img.shields.io/badge/MongoDB-black?logo=MongoDB)
