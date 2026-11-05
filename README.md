@@ -1,6 +1,4 @@
-## 😊 Hi there!
-My name is **Andrei**, I'm a Frontend Developer passionate about creating responsive, clean, and user-friendly web interfaces.  
-I enjoy building things that look good and work fast - from adaptive layouts to full-featured web applications.  
+## Hi there!
 
 ### </> Tech Stack 
 #### Frontend 
